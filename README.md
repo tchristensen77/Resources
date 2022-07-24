@@ -170,7 +170,7 @@ Udacity offers a ton of free courses in SQL, python, excel, statistics, etc. tha
 FreeCodeCamp has free courses on a ton of different programing languages and software. Plus check out their YouTube channel for free full courses.
 
 [Udemy](https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.US_dev.Desktop.Tablet&utm_term=_._ag_137319648178_._ad_595310984146_._de_c_._dm__._pl__._ti_aud-1279170979662:kwd-310556426868_._li_9008464_._pd__._&utm_term=_._pd__._kw_udemy_._&matchtype=e&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTGbS3M40S8y6f0tRdPZ7VcUC2DMG03oUr6T0UeBhTC_G_qv8Rmi2uwaAtxSEALw_wcB)
-Udemy offers a ton of courses on different subjects. Anyone can create a course and sell it so be sure to read the reviews. They regularly have sales so don't buy anything full price.
+Udemy offers a ton of courses on different subjects. Anyone can create a course and sell it, so be sure to read the reviews. They regularly have sales so don't buy anything full price.
 
 # :books: Books 
 
@@ -198,7 +198,7 @@ R for Data Science, the title is pretty self explanatory. Online version is free
 This book is a guide for creating professional and effective visualizations. Online version is free, physical copy needs to be bought.
 
 :star: [Storytelling With Data](https://www.storytellingwithdata.com/books)
-Storytelling with Data is highly recommended by multiple people. Teachs you the fundamentals of visualization and how to commmunicate you findings.
+Storytelling with Data is highly recommended by multiple people. Teachs you the fundamentals of visualization and how to commmunicate your findings.
 
 
 # :pencil: Practice 
@@ -206,19 +206,19 @@ I've included a bunch of great resources and learning tools but if you don't wan
 Here are some helpful resources or websites to help you practice what you have learned.
 
 [Kaggle](https://www.kaggle.com)
-Great resource for finding datasets and practicing R or Python. You can chech out what others have done or compete in the competitions.
+Great resource for finding datasets and practicing R or Python. You can check out what others have done or compete in the competitions.
 
 [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground?pageSize=10)
-Free datasets and practice case studies, great for portfolios.
+Free datasets and practice case studies, great for practicing real world case studies.
 
 [Danny Ma's SQL Challenge](https://8weeksqlchallenge.com)
-Danny Ma's 8 Week SQL Challenge will help you learn SQL and practice on case studies.
+Danny Ma's 8 Week SQL Challenge will help you learn SQL and practice on example case studies.
 
 [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
-TidyTuesday has weekly data science challenges aimmed for R
+TidyTuesday has weekly data science challenges aimmed for learning and practicing R.
 
 [DataCamp](https://www.datacamp.com)
-DataCamp has free and paid courses as well as projects to help you practice. Set up as fill in the blanks so not great depending on your learning style.
+DataCamp has free and paid courses, as well as, projects to help you practice. Set up as fill in the blanks so not great depending on your learning style.
 
 ## Interview Prep
 
