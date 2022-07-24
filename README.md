@@ -1,7 +1,7 @@
 # Resources
 Here are tons of resources I have found or have been recommended to me as I have taught myself Data Analytics.
 
-## Courses
+## Courses and Free Resources
 
 ### Data Analytics
 Courses to give you a foundations of Data Analytics
@@ -21,6 +21,8 @@ Paid course on Coursera-This course will teach you SQL in relation to Data Scien
 [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 Paid course on Udemy- This course teaches you SQL from beginner to expert. It is taught with the MySQL dialect.
 
+#### Free Resources
+
 [Mike Dane's SQL Course](https://www.mikedane.com/databases/sql/)
 Free course- This course will teach you the beginner to intermediate level SQL. Course is also available on YouTube from FreeCodeCamp.
 
@@ -33,6 +35,11 @@ Strongly recommend going through this tutorial or at least bookmarking it when y
 
 [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBb21Rx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2946137&utm_content=b2c)
 Paid course- Available on Coursera. This specialization focuses on R for data science.
+
+#### Free Resources
+
+[Intro to R](http://statseducation.com/Introduction-to-R/)
+Free course from Stats Education. Self paced course will teach you the basics of R.
 
 ### Python
 
@@ -47,27 +54,58 @@ Paid course on Coursera- This course is from the IBM Data Analytics certificate 
 
 ### Visualizations
 
+Learn how to creat visualizations to share your work.
+
 [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBNXpRx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)
 Paid course on Coursera- This course focuses on teaching data visualization in Tableau.
-
-[Getting Started with Power BI Desktop](https://www.coursera.org/projects/power-bi-desktop)
-Free project on Coursera- This project will teach you the basics of using Power BI Desktop software.
 
 [Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/)
 Paid course on Udemy- This course will teach you the basics of Tableau.
 
+#### Free Resources
+
+[Getting Started with Power BI Desktop](https://www.coursera.org/projects/power-bi-desktop)
+Free project on Coursera- This project will teach you the basics of using Power BI Desktop software.
+
 ### Statistics
 
-Having a base knowledge of statistics with be have helpful for analysis. Here are statistics courses that have been recommeneded.
+Having a base knowledge of statistics with be have helpful for analysis.
 
 [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/?src=sac&kw=statistics)
 Paid course on Udemy- but regularly on sale
 
 ### Excel
 
+Every company will use Excel in one way or another.
+
 [Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization?irclickid=U4hQB4SWVxyIW6yU3HRusxaqUkDzqwwJRx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359989&utm_content=b2c)
 Paid course on Coursera- This specialization focuses on advanced Excel functions, creative visualizations, and powerful automation features.
 
+#### Free Resources
 
+[Microsofts Training Library](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+Microsoft offers free training videos on how to do almost anything in Excel. Great resource if you get stuck and need to see how to do something.
+
+## Books
+
+If you are like me and want to learn new concepts by reading, here are books that will help.
+
+### Python
+
+[Python for Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/)
+Online version is free, physical copy needs to be bought.
+
+### R
+
+[R for Data Science](https://r4ds.had.co.nz/)
+R for Data Science is pretty self explanatory. Online version is free, physical copy needs to be bought.
+
+### Visualizations
+
+[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+Online version is free, physical copy needs to be bought.
+
+[Storytelling With Data](https://www.storytellingwithdata.com/books)
+Storytelling with Data is highly recommended by multiple people. Teachs you the fundamentals of visualization and how to commmunicate you findings.
 
 
