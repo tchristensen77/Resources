@@ -65,12 +65,18 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
 ## R :chart_with_upwards_trend:
 
 [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBb21Rx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2946137&utm_content=b2c)
-Paid course- Available on Coursera. This specialization focuses on R for data science.
+Paid course- This specialization is through IBM and focuses on R for data science.
+
+[R Programming](https://www.coursera.org/learn/r-programming)
+Paid course on Coursera- This course is by John Hopkins and will teach you beginner to intermediate level R.
 
   ### :free: Free Resources 
 
   [Intro to R](http://statseducation.com/Introduction-to-R/)
   Free course from Stats Education. Self paced course will teach you the basics of R.
+  
+  :star: [Swirl](https://swirlstats.com/)
+  Free course- Swirl is a package you can install in R/R Studio that will will teach you R in an interactive environment. There is a couple different course you can addd to the library. 
 
 
 ## Python :snake:
@@ -175,8 +181,11 @@ Learn how to automate tasks with Python. Online version is free, physical copy n
 
 ## R :chart_with_upwards_trend:
 
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+This book will teach you how to program with hand on examples. It's recommended you read this before R for Data Science. Online version is free, physical copy needs to be bought.
+
 [R for Data Science](https://r4ds.had.co.nz/)
-R for Data Science is pretty self explanatory. Online version is free, physical copy needs to be bought.
+R for Data Science is pretty self explanatory, it's recommended you read. Online version is free, physical copy needs to be bought.
 
 ## Visualizations :bar_chart:
 
