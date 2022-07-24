@@ -45,6 +45,16 @@ Paid course on Udemy- Project based course to help beginners learn Python.
 [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
 Paid course on Coursera- This course is from the IBM Data Analytics certificate and give teach you how to use Python for data analysis.
 
+### Visualizations
+
+[Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBNXpRx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)
+Paid course on Coursera- This course focuses on teaching data visualization in Tableau.
+
+[Getting Started with Power BI Desktop](https://www.coursera.org/projects/power-bi-desktop)
+Free project on Coursera- This project will teach you the basics of using Power BI Desktop software.
+
+[Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/)
+Paid course on Udemy- This course will teach you the basics of Tableau.
 
 ### Statistics
 
