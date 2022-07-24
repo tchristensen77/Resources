@@ -49,6 +49,7 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
   Strongly recommend going through this tutorial or at least bookmarking it when you have questions.
   
   [Select*SQL](https://selectstarsql.com/)
+  Free course on Select * SQL- This course will teach you beginner and intermediate SQL through an interactive tutorial.
   
 
   [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
