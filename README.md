@@ -22,7 +22,7 @@ Courses to give you a foundation in Data Analytics
 Obviously this has to be first because it is the course I took. It provided a good foundation for the rest of my journey.
 This course teaches data analytics theory then goes into technical skills- excel, SQL, Tableau and R.
 
-[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?utm_source=gg&utm_medium=sem&campaignid=11706203036&utm_campaign=10-IBM-Data-Analyst-US&utm_content=B2C&adgroupid=113140262545&device=c&keyword=ibm%20data%20analyst%20certification&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=482282125396&hide_mobile_promo&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTFQ1QGKyE64f4oLEJahL7tI493ohZQ7VR7phmQX4gQR0WAvnhenv3caAiaqEALw_wcB)
 IBM's Data Analytics Course also available on Coursera. This course teaches SQL, Congos and Python. Most of the course is focused on Python, and they expect learners to have a base level of Python before starting the certificate.
 
   ### :free: Free Resources
