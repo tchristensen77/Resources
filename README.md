@@ -16,11 +16,11 @@ Anything that I highly recommend is highlighted with a :star:
 # :mortar_board: Courses and Free Resources 
 
 ## Data Analytics
-Courses to give you a foundations of Data Analytics
+Courses to give you a foundation in Data Analytics
 
 :star: [Google Data Analytics Cerfiticate](https://www.coursera.org/professional-certificates/google-data-analytics)
 Obviously this has to be first because it is the course I took. It provided a good foundation for the rest of my journey.
-This course teaches excel, SQL, Tableau and R.
+This course teaches data analytics theory then goes into technical skills- excel, SQL, Tableau and R.
 
 [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 IBM's Data Analytics Course also available on Coursera. This course teach SQL, Congos and Python.  Most of the course is focus on Python, and they expect learners to have a base level of Python before starting the certificate.
@@ -45,12 +45,11 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
   Free course- This course will teach you the beginner to intermediate level SQL. Course is also available on YouTube from FreeCodeCamp.
 
   :star: [W3Schools](https://www.w3schools.com/sql/default.asp)
-  Free tutorial- This tutorial walks through every function and keyword in SQL and its dialect. 
+  Free tutorial- This tutorial walks through every function and keyword in SQL and the different dialects. 
   Strongly recommend going through this tutorial or at least bookmarking it when you have questions.
   
   [Select*SQL](https://selectstarsql.com/)
   Free course on Select * SQL- This course will teach you beginner and intermediate SQL through an interactive tutorial.
-  
 
   [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
   Free course on Udacity- Course is by Mode and teaches you beginner to intermediate level SQL.
@@ -59,7 +58,7 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
   Free course on Khan Academy- Learn beginner to intermediate SQL with an interactive course.
   
   [CodeAcademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
-  Free course on CodeAcademy- Beginner level project based course.
+  Free course on CodeAcademy- Beginner level project-based course.
 
 
 ## R :chart_with_upwards_trend:
@@ -73,10 +72,10 @@ Paid course on Coursera- This course is by John Hopkins and will teach you begin
   ### :free: Free Resources 
 
   [Intro to R](http://statseducation.com/Introduction-to-R/)
-  Free course from Stats Education. Self paced course will teach you the basics of R.
+  Free course from Stats Education- Self paced course will teach you the basics of R.
   
   :star: [Swirl](https://swirlstats.com/)
-  Free course- Swirl is a package you can install in R/R Studio that will will teach you R in an interactive environment. There is a couple different course you can addd to the library. 
+  Free course- Swirl is a package you can install in R/R Studio that will will teach you R in an interactive environment. There is a couple different course you can add to the library. 
 
 
 ## Python :snake:
@@ -85,15 +84,15 @@ Paid course on Coursera- This course is by John Hopkins and will teach you begin
 Paid course on Coursera- Highly recommended course for beginners wanting to learn Python.
 
 [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_81829991707_._ad_532193666393_._kw__._de_c_._dm__._pl__._ti_aud-720389363895%3Adsa-1007766171312_._li_9008464_._pd__._&matchtype=&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTEYW1fluX80zbc4e9_eN5yQ8W1gP9UFzT3-pPPcRafKcwLiJ3pkEqEaAml3EALw_wcB)
-Paid course on Udemy- Project based course to help beginners learn Python.
+Paid course on Udemy- Project based course to help beginners learn Python, over 100 classes you will build different projects in Python to help practice the skills as you learn them.
 
 [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
-Paid course on Coursera- This course is from the IBM Data Analytics certificate and give teach you how to use Python for data analysis.
+Paid course on Coursera- This course is from the IBM Data Analytics certificate and will teach you how to use Python for data analysis.
 
   ### :free: Free Resources 
 
   [Real Python](https://realpython.com)
-  Free wesbite that offers tutorials, learning paths and more to help you learn Python.
+  Free website that offers tutorials, learning paths and more to help you learn Python.
 
 
 ## Visualizations :bar_chart:
@@ -101,7 +100,7 @@ Paid course on Coursera- This course is from the IBM Data Analytics certificate 
 Learn how to creat visualizations to share your work.
 
 [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBNXpRx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)
-Paid course on Coursera- This course focuses on teaching data visualization in Tableau.
+Paid course on Coursera- This course focuses on teaching data visualization specifically in Tableau.
 
 [Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/)
 Paid course on Udemy- This course will teach you the basics of Tableau.
@@ -112,7 +111,7 @@ Paid course on Udemy- This course will teach you the basics of Tableau.
   Free project on Coursera- This project will teach you the basics of using Power BI Desktop software.
   
   [Microsoft Training Library](https://docs.microsoft.com/en-us/learn/browse/?products=power-bi&WT.mc_id=sitertzn_learntab_mslearn-banner-powerbi)
-  Microsoft offeres free training modules and videos on Power BI
+  Microsoft offers free training modules and videos on Power BI
 
   [Tableau's Training Library](https://public.tableau.com/en-us/s/resources)
   Tableau offers how to videos and resources on how to learn and use Tableau.
@@ -123,7 +122,7 @@ Paid course on Udemy- This course will teach you the basics of Tableau.
 Having a base knowledge of statistics with be have helpful for analysis.
 
 [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/?src=sac&kw=statistics)
-Paid course on Udemy- but regularly on sale. Learn the statistics in relation to Data Science and Business
+Paid course on Udemy- Learn the statistics in relation to Data Science and Business
 
   ### :free: Free Resources
 
@@ -156,16 +155,22 @@ Highly recommend this one! If you don't follow her on TikTok, you should. She se
 Free course on Coursera- This course will teach you learning techniques to utilize in any field. 
 
 ## Websites/Learning Platforms
+Here is a list of other learning platforms that have courses in data analytics or other fields that will be helpful.
 
 :star: [W3Schools](https://www.w3schools.com)
 W3Schools has tutorials on a ton of topics including SQL, python, excel, statistics, etc. 
 
+[LinkedIn Learning](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwimpo_N5JH5AhXhklsKHZF5CTQYABADGgJ5bQ&ohost=www.google.com&cid=CAESaeD2dRYtAzit2nldFIG08QuCMoI5PP_LHD-Vr0XP3oGJ1kDnojC-SKjdI2T-uBALvspUoSUo5O_GojMXIDk6gy4HHya1zwcYrCsAdZQc1oXDGvi6etFIAW9TeXdduoUATs_Y-CvnzfgrYg&sig=AOD64_1xnsrOzCv9j9ojbN5xDY9BwkPDcw&ved=2ahUKEwiR5IbN5JH5AhXhMVkFHSi0BJoQqyQoAHoECAQQBQ&nis=8&adurl=)
+LinkedIn Learning offers a ton of courses and the certificates will be added to your LinkedIn account. This is a paid subscription but you can get a 1 month free trial and some local libraries will also give you free access.
+
 [Free Courses on Udacity](https://www.udacity.com/courses/all?price=Free)
-Udacity offers a ton of free courses that you can explore.
+Udacity offers a ton of free courses in SQL, python, excel, statistics, etc. that you can explore.
 
 [FreeCodeCamp](https://www.freecodecamp.org)
-FreeCodeCamp has free courses on a ton of different programing languages and software. Way too many for me to list 
+FreeCodeCamp has free courses on a ton of different programing languages and software. Plus check out their YouTube channel for free full courses.
 
+[Udemy](https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.US_dev.Desktop.Tablet&utm_term=_._ag_137319648178_._ad_595310984146_._de_c_._dm__._pl__._ti_aud-1279170979662:kwd-310556426868_._li_9008464_._pd__._&utm_term=_._pd__._kw_udemy_._&matchtype=e&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTGbS3M40S8y6f0tRdPZ7VcUC2DMG03oUr6T0UeBhTC_G_qv8Rmi2uwaAtxSEALw_wcB)
+Udemy offers a ton of courses on different subjects. Anyone can create a course and sell it so be sure to read the reviews. They regularly have sales so don't buy anything full price.
 
 # :books: Books 
 
@@ -185,7 +190,7 @@ Learn how to automate tasks with Python. Online version is free, physical copy n
 This book will teach you how to program with hand on examples. It's recommended you read this before R for Data Science. Online version is free, physical copy needs to be bought.
 
 [R for Data Science](https://r4ds.had.co.nz/)
-R for Data Science is pretty self explanatory, it's recommended you read. Online version is free, physical copy needs to be bought.
+R for Data Science, the title is pretty self explanatory. Online version is free, physical copy needs to be bought.
 
 ## Visualizations :bar_chart:
 
