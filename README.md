@@ -48,6 +48,9 @@ Paid course on Udemy- This course teaches you SQL from beginner level to expert.
   Free tutorial- This tutorial walks through every function and keyword in SQL and the different dialects. 
   Strongly recommend going through this tutorial or at least bookmarking it when you have questions.
   
+  [Data with Danny](https://github.com/DataWithDanny/sql-masterclass)
+  Free course from Danny Ma- This course will teach you SQL in a mix of readings, videos and practice exercises. 
+  
   [Select*SQL](https://selectstarsql.com/)
   Free course on Select * SQL- This course will teach you beginner and intermediate SQL through an interactive tutorial.
 
@@ -56,9 +59,6 @@ Paid course on Udemy- This course teaches you SQL from beginner level to expert.
   
   [Khan Academy SQL Course](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
   Free course on Khan Academy- Learn beginner to intermediate level SQL with an interactive course.
-  
-  [CodeAcademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
-  Free course on CodeAcademy- Beginner level project-based course.
 
 
 ## R :chart_with_upwards_trend:
