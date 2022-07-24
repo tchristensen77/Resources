@@ -30,6 +30,7 @@ IBM's Data Analytics Course also available on Coursera. This course teach SQL, C
 [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 Free Course on Udacity- Intro course to data analytics with a focus on Python.
 
+
 ### SQL :file_folder:
 
 [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBPVpRx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)
@@ -50,6 +51,7 @@ Strongly recommend going through this tutorial or at least bookmarking it when y
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 Free course on Udacity- Course is by Mode and teaches you beginner to intermediate level SQL.
 
+
 ### R :chart_with_upwards_trend:
 
 [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBb21Rx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2946137&utm_content=b2c)
@@ -59,6 +61,7 @@ Paid course- Available on Coursera. This specialization focuses on R for data sc
 
 [Intro to R](http://statseducation.com/Introduction-to-R/)
 Free course from Stats Education. Self paced course will teach you the basics of R.
+
 
 ### Python :snake:
 
@@ -75,6 +78,7 @@ Paid course on Coursera- This course is from the IBM Data Analytics certificate 
 
 [Real Python](https://realpython.com)
 Free wesbite that offers tutorials, learning paths and more to help you learn Python.
+
 
 ### Visualizations :bar_chart:
 
@@ -94,6 +98,7 @@ Free project on Coursera- This project will teach you the basics of using Power 
 [Tableau's Training Library](https://public.tableau.com/en-us/s/resources)
 Tableau offers how to videos and resources on how to learn and use Tableau.
 
+
 ### Statistics :heavy_division_sign:
 
 Having a base knowledge of statistics with be have helpful for analysis.
@@ -105,6 +110,7 @@ Paid course on Udemy- but regularly on sale. Learn the statistics in relation to
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 Free course on Udacity- Taught by Facebook, this will teach you how to draw conclusions and make predictions using data.
+
 
 ### Excel :floppy_disk:
 
@@ -119,6 +125,7 @@ Paid course on Coursera- This specialization focuses on advanced Excel functions
 Microsoft offers free training videos on how to do almost anything in Excel. Great resource if you get stuck and need to see how to do something.
 
 
+
 ## Helpful Resources :tada:
 
 :star: [Data Storyteller's Weekly Round Up](https://datastoryteller.substack.com)
@@ -129,6 +136,7 @@ Free course on Coursera- This course will teach you learning techniques to utili
 
 [Free Courses on Udacity](https://www.udacity.com/courses/all?price=Free)
 Udacity offers a ton of free courses that you can explore.
+
 
 
 ## Books :books:
@@ -155,6 +163,7 @@ Online version is free, physical copy needs to be bought.
 
 :star: [Storytelling With Data](https://www.storytellingwithdata.com/books)
 Storytelling with Data is highly recommended by multiple people. Teachs you the fundamentals of visualization and how to commmunicate you findings.
+
 
 ## Practice :pencil:
 I've included a bunch of great resources and learning tools but if you don't want to get stuck in tutorial hell, you need to practice!
