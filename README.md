@@ -47,6 +47,9 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
   :star: [W3Schools](https://www.w3schools.com/sql/default.asp)
   Free tutorial- This tutorial walks through every function and keyword in SQL and its dialect. 
   Strongly recommend going through this tutorial or at least bookmarking it when you have questions.
+  
+  [Select*SQL](https://selectstarsql.com/)
+  
 
   [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
   Free course on Udacity- Course is by Mode and teaches you beginner to intermediate level SQL.
