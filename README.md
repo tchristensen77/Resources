@@ -35,7 +35,7 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
 [Mike Dane's SQL Course](https://www.mikedane.com/databases/sql/)
 Free course- This course will teach you the beginner to intermediate level SQL. Course is also available on YouTube from FreeCodeCamp.
 
-[W3Schools](https://www.w3schools.com/sql/default.asp)
+:star:[W3Schools](https://www.w3schools.com/sql/default.asp)
 Free tutorial- This tutorial walks through every function and keyword in SQL and its dialect. 
 Strongly recommend going through this tutorial or at least bookmarking it when you have questions.
 
@@ -113,10 +113,10 @@ Microsoft offers free training videos on how to do almost anything in Excel. Gre
 
 ## Helpful Resources
 
-[Data Storyteller's Weekly Round Up](https://datastoryteller.substack.com)
+:star:[Data Storyteller's Weekly Round Up](https://datastoryteller.substack.com)
 Highly recommend this one! If you don't follow her on TikTok, you should. She sends out a weekly email with helpful or interesting resources she has found each week.
 
-[Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+:star:[Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 Free course on Coursera- This course will teach you learning techniques to utilize in any field. *Highly recommend this course*
 
 [Free Courses on Udacity](https://www.udacity.com/courses/all?price=Free)
@@ -145,7 +145,7 @@ R for Data Science is pretty self explanatory. Online version is free, physical 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 Online version is free, physical copy needs to be bought.
 
-[Storytelling With Data](https://www.storytellingwithdata.com/books)
+:star:[Storytelling With Data](https://www.storytellingwithdata.com/books)
 Storytelling with Data is highly recommended by multiple people. Teachs you the fundamentals of visualization and how to commmunicate you findings.
 
 
