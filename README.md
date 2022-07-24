@@ -13,7 +13,7 @@ Anything that I highly recommend is highlighted with a :star:
 
 :pencil: [Practice](https://github.com/tchristensen77/Resources/blob/main/README.md#practice)
 
-# Courses and Free Resources :mortar_board:
+# :mortar_board: Courses and Free Resources 
 
 ## Data Analytics
 Courses to give you a foundations of Data Analytics
@@ -137,7 +137,7 @@ Paid course on Coursera- This specialization focuses on advanced Excel functions
   Free course on edX- This course will taught you about the fundamentals of Excel and data analysis.
 
 
-# Helpful Resources :tada:
+# :tada: Helpful Resources 
 
 :star: [Data Storyteller's Weekly Round Up](https://datastoryteller.substack.com)
 Highly recommend this one! If you don't follow her on TikTok, you should. She sends out a weekly email with helpful or interesting resources she has found each week.
@@ -157,7 +157,7 @@ Udacity offers a ton of free courses that you can explore.
 FreeCodeCamp has free courses on a ton of different programing languages and software. Way too many for me to list 
 
 
-# Books :books:
+# :books: Books 
 
 If you are like me and want to learn new concepts by reading, here are books that will help.
 
@@ -177,13 +177,13 @@ R for Data Science is pretty self explanatory. Online version is free, physical 
 ## Visualizations :bar_chart:
 
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
-Online version is free, physical copy needs to be bought.
+This book is a guide for creating professional and effective visualizations. Online version is free, physical copy needs to be bought.
 
 :star: [Storytelling With Data](https://www.storytellingwithdata.com/books)
 Storytelling with Data is highly recommended by multiple people. Teachs you the fundamentals of visualization and how to commmunicate you findings.
 
 
-# Practice :pencil:
+# :pencil: Practice 
 I've included a bunch of great resources and learning tools but if you don't want to get stuck in tutorial hell, you need to practice!
 Here are some helpful resources or websites to help you practice what you have learned.
 
