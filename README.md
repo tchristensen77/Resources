@@ -97,7 +97,7 @@ Paid course on Coursera- This course is from the IBM Data Analytics certificate 
 
 ## Visualizations :bar_chart:
 
-Learn how to creat visualizations to share your work.
+Learn how to create visualizations to share your work.
 
 [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBNXpRx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)
 Paid course on Coursera- This course focuses on teaching data visualization specifically in Tableau.
