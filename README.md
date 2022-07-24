@@ -100,6 +100,9 @@ Paid course on Udemy- This course will teach you the basics of Tableau.
 
   [Getting Started with Power BI Desktop](https://www.coursera.org/projects/power-bi-desktop)
   Free project on Coursera- This project will teach you the basics of using Power BI Desktop software.
+  
+  [Microsoft Training Library](https://docs.microsoft.com/en-us/learn/browse/?products=power-bi&WT.mc_id=sitertzn_learntab_mslearn-banner-powerbi)
+  Microsoft offeres free training modules and videos on Power BI
 
   [Tableau's Training Library](https://public.tableau.com/en-us/s/resources)
   Tableau offers how to videos and resources on how to learn and use Tableau.
@@ -140,11 +143,18 @@ Paid course on Coursera- This specialization focuses on advanced Excel functions
 Highly recommend this one! If you don't follow her on TikTok, you should. She sends out a weekly email with helpful or interesting resources she has found each week.
 
 :star: [Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-Free course on Coursera- This course will teach you learning techniques to utilize in any field. *Highly recommend this course*
+Free course on Coursera- This course will teach you learning techniques to utilize in any field. 
+
+## Websites/Learning Platforms
+
+:star: [W3Schools](https://www.w3schools.com)
+W3Schools has tutorials on a ton of topics including SQL, python, excel, statistics, etc. 
 
 [Free Courses on Udacity](https://www.udacity.com/courses/all?price=Free)
 Udacity offers a ton of free courses that you can explore.
 
+[FreeCodeCamp](https://www.freecodecamp.org)
+FreeCodeCamp has free courses on a ton of different programing languages and software. Way too many for me to list 
 
 
 # Books :books:
@@ -189,6 +199,9 @@ Danny Ma's 8 Week SQL Challenge will help you learn SQL and practice on case stu
 [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 TidyTuesday has weekly data science challenges aimmed for R
 
+[DataCamp](https://www.datacamp.com)
+DataCamp has free and paid courses as well as projects to help you practice. Set up as fill in the blanks so not great depending on your learning style.
+
 ## Interview Prep
 
 [HackerRank](https://www.hackerrank.com)
@@ -196,9 +209,5 @@ Practice coding questions with real world examples. Great to practice for coding
 
 [LeetCode](https://leetcode.com/problemset/database/)
 Coding and interview practice. Free and paid subscriptions.
-
-
-
-
 
 
