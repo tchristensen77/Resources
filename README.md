@@ -5,12 +5,20 @@ Anything that I highly recommend is highlighted with a :star:
 
 ## Sections
 
+[Courses and Free Resources by Topic](https://github.com/tchristensen77/Resources/blob/main/README.md#courses-and-free-resources)
+
+[Helpful Resources](https://github.com/tchristensen77/Resources#helpful-resources)
+
+[Books](https://github.com/tchristensen77/Resources#books)
+
+[Practice]
+
 ## Courses and Free Resources
 
 ### Data Analytics
 Courses to give you a foundations of Data Analytics
 
-:star:[Google Data Analytics Cerfiticate](https://www.coursera.org/professional-certificates/google-data-analytics)
+:star: [Google Data Analytics Cerfiticate](https://www.coursera.org/professional-certificates/google-data-analytics)
 Obviously this has to be first because it is the course I took. It provided a good foundation for the rest of my journey.
 This course teaches excel, SQL, Tableau and R.
 
@@ -35,7 +43,7 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
 [Mike Dane's SQL Course](https://www.mikedane.com/databases/sql/)
 Free course- This course will teach you the beginner to intermediate level SQL. Course is also available on YouTube from FreeCodeCamp.
 
-:star:[W3Schools](https://www.w3schools.com/sql/default.asp)
+:star: [W3Schools](https://www.w3schools.com/sql/default.asp)
 Free tutorial- This tutorial walks through every function and keyword in SQL and its dialect. 
 Strongly recommend going through this tutorial or at least bookmarking it when you have questions.
 
@@ -113,10 +121,10 @@ Microsoft offers free training videos on how to do almost anything in Excel. Gre
 
 ## Helpful Resources
 
-:star:[Data Storyteller's Weekly Round Up](https://datastoryteller.substack.com)
+:star: [Data Storyteller's Weekly Round Up](https://datastoryteller.substack.com)
 Highly recommend this one! If you don't follow her on TikTok, you should. She sends out a weekly email with helpful or interesting resources she has found each week.
 
-:star:[Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+:star: [Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 Free course on Coursera- This course will teach you learning techniques to utilize in any field. *Highly recommend this course*
 
 [Free Courses on Udacity](https://www.udacity.com/courses/all?price=Free)
@@ -147,5 +155,9 @@ Online version is free, physical copy needs to be bought.
 
 :star:[Storytelling With Data](https://www.storytellingwithdata.com/books)
 Storytelling with Data is highly recommended by multiple people. Teachs you the fundamentals of visualization and how to commmunicate you findings.
+
+## Practice
+I've included a bunch of great resources and learning tools but if you don't want to get stuck in tutorial hell, you need to practice!
+Here are some helpful resources or websites to help you practice what you have learned.
 
 
