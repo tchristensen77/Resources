@@ -23,7 +23,7 @@ Obviously this has to be first because it is the course I took. It provided a go
 This course teaches data analytics theory then goes into technical skills- excel, SQL, Tableau and R.
 
 [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-IBM's Data Analytics Course also available on Coursera. This course teach SQL, Congos and Python.  Most of the course is focus on Python, and they expect learners to have a base level of Python before starting the certificate.
+IBM's Data Analytics Course also available on Coursera. This course teaches SQL, Congos and Python. Most of the course is focused on Python, and they expect learners to have a base level of Python before starting the certificate.
 
   ### :free: Free Resources
 
@@ -34,15 +34,15 @@ IBM's Data Analytics Course also available on Coursera. This course teach SQL, C
 ## SQL :file_folder:
 
 [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBPVpRx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)
-Paid course on Coursera-This course will teach you SQL in relation to Data Science. It is taught with the SQLlite dialect,
+Paid course on Coursera- This course will teach you SQL in relation to Data Science. It is taught in the SQLlite dialect.
 
 [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
-Paid course on Udemy- This course teaches you SQL from beginner to expert. It is taught with the MySQL dialect.
+Paid course on Udemy- This course teaches you SQL from beginner level to expert. It is taught in the MySQL dialect.
 
   ### :free: Free Resources 
 
   [Mike Dane's SQL Course](https://www.mikedane.com/databases/sql/)
-  Free course- This course will teach you the beginner to intermediate level SQL. Course is also available on YouTube from FreeCodeCamp.
+  Free course- This course will teach you beginner to intermediate level SQL. Course is also available on YouTube from FreeCodeCamp.
 
   :star: [W3Schools](https://www.w3schools.com/sql/default.asp)
   Free tutorial- This tutorial walks through every function and keyword in SQL and the different dialects. 
@@ -55,7 +55,7 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
   Free course on Udacity- Course is by Mode and teaches you beginner to intermediate level SQL.
   
   [Khan Academy SQL Course](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
-  Free course on Khan Academy- Learn beginner to intermediate SQL with an interactive course.
+  Free course on Khan Academy- Learn beginner to intermediate level SQL with an interactive course.
   
   [CodeAcademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
   Free course on CodeAcademy- Beginner level project-based course.
@@ -64,7 +64,7 @@ Paid course on Udemy- This course teaches you SQL from beginner to expert. It is
 ## R :chart_with_upwards_trend:
 
 [Data Science: Foundations using R Specialization](https://www.coursera.org/specializations/data-science-foundations-r?irclickid=XkyWLhS2SxyIW6yU3HRusxaqUkDzBb21Rx90RY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2946137&utm_content=b2c)
-Paid course- This specialization is through IBM and focuses on R for data science.
+Paid course on Coursera- This specialization is through IBM and focuses on R for data science.
 
 [R Programming](https://www.coursera.org/learn/r-programming)
 Paid course on Coursera- This course is by John Hopkins and will teach you beginner to intermediate level R.
@@ -75,7 +75,7 @@ Paid course on Coursera- This course is by John Hopkins and will teach you begin
   Free course from Stats Education- Self paced course will teach you the basics of R.
   
   :star: [Swirl](https://swirlstats.com/)
-  Free course- Swirl is a package you can install in R/R Studio that will will teach you R in an interactive environment. There is a couple different course you can add to the library. 
+  Free course- Swirl is a package you can install in R/R Studio that will teach you R in an interactive environment. There is a couple different course you can add to the library. 
 
 
 ## Python :snake:
@@ -84,7 +84,7 @@ Paid course on Coursera- This course is by John Hopkins and will teach you begin
 Paid course on Coursera- Highly recommended course for beginners wanting to learn Python.
 
 [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_81829991707_._ad_532193666393_._kw__._de_c_._dm__._pl__._ti_aud-720389363895%3Adsa-1007766171312_._li_9008464_._pd__._&matchtype=&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTEYW1fluX80zbc4e9_eN5yQ8W1gP9UFzT3-pPPcRafKcwLiJ3pkEqEaAml3EALw_wcB)
-Paid course on Udemy- Project based course to help beginners learn Python, over 100 classes you will build different projects in Python to help practice the skills as you learn them.
+Paid course on Udemy- Project based course to help beginners learn Python, over the 100 classes you will build different projects in Python to help practice the skills as you learn them.
 
 [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
 Paid course on Coursera- This course is from the IBM Data Analytics certificate and will teach you how to use Python for data analysis.
